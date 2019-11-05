@@ -1,0 +1,9 @@
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\bin\Debug\PrintAnInvoice.exe.config
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\bin\Debug\PrintAnInvoice.exe
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\bin\Debug\PrintAnInvoice.pdb
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.csprojAssemblyReference.cache
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.Form1.resources
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.Properties.Resources.resources
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.csproj.GenerateResource.cache
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.exe
+C:\Users\ahmed_3e4h88\source\repos\PrintAnInvoice\PrintAnInvoice\obj\Debug\PrintAnInvoice.pdb
